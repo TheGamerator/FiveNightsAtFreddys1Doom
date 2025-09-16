@@ -13,7 +13,7 @@ to let you back out. Can you survive?
 
 How to play: Unzip the game,
 
-Go to that folder and run FDLauncher.exe
+Go to that folder and run Fnafdoomlauncher.exe
 
 #horror #multiplayer #coop #versus #survival #doom
 
