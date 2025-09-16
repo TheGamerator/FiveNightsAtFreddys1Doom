@@ -11,7 +11,10 @@ find out that you just might of been safer in the storm. The doors dont seem
 
 to let you back out. Can you survive?
 
-How to play: Unzip the game,
+How to play:
+Download the game from here: https://drive.google.com/file/d/1mIxhfZXmcUT2mbKNuahsRI4S_rzVUFKW/view?usp=sharing
+
+Unzip the game,
 
 Go to that folder and run Fnafdoomlauncher.exe
 
